@@ -112,8 +112,3 @@ This repository is licensed under CC0 1.0 Universal, which means you can freely 
 Happy Graphing! 😊
 
 ---
-
-Status Badges: 
-- active 
-- inactive
-- na
