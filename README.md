@@ -76,7 +76,7 @@ Graph engines are optimized systems for performing queries, computations, and an
 - [Dgraph](https://dgraph.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Go-blue) - A fast, distributed graph database system designed for real-time query execution.
 - [GunDB](https://gun.eco/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-JavaScript-yellow) - A decentralized graph database engine designed for distributed systems.
 - [KuzuDB](https://kuzudb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - A highly scalable, extremely fast, easy-to-use embeddedable graph database.
-- [Memgraph](https://memgraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen)
+- [Memgraph](https://memgraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - A scalable, fast, in-memory graph database solutions.
 - [PuppyGraph](https://www.puppygraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Seamlessly query one or multiple data stores as a unified graph model.
 - [TigerGraph](https://www.tigergraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A real-time graph analytics platform that supports massive datasets and deep link analytics.
 
