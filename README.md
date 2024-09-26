@@ -93,6 +93,15 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 
 ---
 
+## GraphRAG Infrastructure
+
+GraphRAG refers to using knowledge graphs for the basis of RAG (Retrieval-Augmented Generation) to improve the accuracy of Generative AI responses.
+
+- [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Full end-to-end and open source GraphRAG solution that deploys in minutes with a single line of code.
+- [GraphRAG](https://github.com/microsoft/graphrag) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Microsoft's open source project to deploy a GraphRAG solution
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you know of any valuable graph-related resources, tools, or libraries that should be included, feel free to submit a pull request or open an issue.
