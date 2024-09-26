@@ -112,3 +112,5 @@ This repository is licensed under CC0 1.0 Universal, which means you can freely 
 Happy Graphing! 😊
 
 ---
+
+Inspired by the work of [Jean-Baptiste Musso](https://github.com/jbmusso/awesome-graph) - which is currently inactive.
