@@ -91,7 +91,7 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 - [GraphFrames (Apache Spark)](https://graphframes.github.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - Combines the benefits of GraphX and DataFrames for scalable graph processing.
 - [GraphLab](https://turi.com/products/create/docs/graphlab.html) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A high-performance, graph-based computation engine for machine learning applications.
 - [Pregel](https://research.google/pubs/pub36726/) ![Status](https://img.shields.io/badge/status-na-lightgrey) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Google's graph processing model, inspired by Bulk Synchronous Parallel (BSP) systems.
-- [Quine](https://quine.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - A high-performance stream processor designed for real-time, massively parallel, graph data processing and analytics.
+- [Streaming Graph](https://docs.thatdot.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - A high-performance stream processor designed for real-time, massively parallel, graph data processing and analytics.
 
 ---
 
