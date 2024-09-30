@@ -15,6 +15,7 @@ Feel free to contribute by submitting pull requests! 🚀
   <li><a href="#graph-data-science-and-analytics">Graph Data Science and Analytics</a></li>
   <li><a href="#graph-computing">Graph Computing</a></li>
   <li><a href="#graphrag-infrastructure">GraphRAG Infrastructure</a></li>
+  <li><a href="#graph-stream-processors">Graph Stream Processors</a></li>
 </ul>
 
 ---
