@@ -14,6 +14,7 @@ Feel free to contribute by submitting pull requests! 🚀
   <li><a href="#knowledge-graphs">Knowledge Graphs</a></li>
   <li><a href="#graph-data-science-and-analytics">Graph Data Science and Analytics</a></li>
   <li><a href="#graph-computing">Graph Computing</a></li>
+  <li><a href="#graph-visualization">Graph Visualization</a></li>
   <li><a href="#graphrag-infrastructure">GraphRAG Infrastructure</a></li>
 </ul>
 
@@ -94,6 +95,14 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 - [GraphLab](https://turi.com/products/create/docs/graphlab.html) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A high-performance, graph-based computation engine for machine learning applications.
 - [Pregel](https://research.google/pubs/pub36726/) ![Status](https://img.shields.io/badge/status-na-lightgrey) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Google's graph processing model, inspired by Bulk Synchronous Parallel (BSP) systems.
 - [Streaming Graph](https://docs.thatdot.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - A high-performance stream processor designed for real-time, massively parallel, graph data processing and analytics.
+
+---
+
+## Graph Visualization
+
+Graph visualization refers to the tools that can be used to visualize graphs and in that way help detect important patterns in the data.
+
+- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 
 ---
 
