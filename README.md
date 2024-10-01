@@ -16,6 +16,7 @@ Feel free to contribute by submitting pull requests! 🚀
   <li><a href="#graph-computing">Graph Computing</a></li>
   <li><a href="#graph-visualization">Graph Visualization</a></li>
   <li><a href="#graphrag-infrastructure">GraphRAG Infrastructure</a></li>
+  <li><a href="#graph-stream-processors">Graph Stream Processors</a></li>
 </ul>
 
 ---
@@ -94,7 +95,7 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 - [GraphFrames (Apache Spark)](https://graphframes.github.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - Combines the benefits of GraphX and DataFrames for scalable graph processing.
 - [GraphLab](https://turi.com/products/create/docs/graphlab.html) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A high-performance, graph-based computation engine for machine learning applications.
 - [Pregel](https://research.google/pubs/pub36726/) ![Status](https://img.shields.io/badge/status-na-lightgrey) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Google's graph processing model, inspired by Bulk Synchronous Parallel (BSP) systems.
-- [Streaming Graph](https://docs.thatdot.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - A high-performance stream processor designed for real-time, massively parallel, graph data processing and analytics.
+- [thatDot Streaming Graph](https://docs.thatdot.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - Built on top of [Quine](https://quine.io/), Streaming Graph is a high-performance stream processor designed for real-time, massively parallel, graph data processing and analytics, capable of ingesting millions of events per second.
 
 ---
 
@@ -112,6 +113,14 @@ GraphRAG refers to using knowledge graphs for the basis of RAG (Retrieval-Augmen
 
 - [GraphRAG](https://github.com/microsoft/graphrag) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Microsoft's open source project to deploy a GraphRAG solution
 - [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Full end-to-end and open source GraphRAG solution that deploys in minutes with a single line of code.
+
+---
+
+## Graph Stream Processors
+
+Graph stream processors enable real-time graph computations within event-stream processing systems. They integrate seamlessly into ETL pipelines or event streams, allowing graph operations to be performed on incoming data streams. These tools consume events, apply graph-based transformations or analyses, and emit processed events, facilitating dynamic graph processing as data flows through the system.
+
+- [Quine](https://quine.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - Quine allows developers to combine multiple event streams into a single graph, query for complex event relationships to identify high value patterns, and take an action in real time.
 
 ---
 
