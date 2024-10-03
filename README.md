@@ -104,9 +104,9 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 ## Graph Visualization
 
 Graph visualization refers to the tools that can be used to visualize graphs and in that way help detect important patterns in the data.
-
-- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
+- [G.V()](https://gdotv.com) - A Graph Database Client compatible with Apache TinkerPop enabled graph databases that enables users to write and run Gremlin queries against their database, and visualize the results using various formats (graph visualization, JSON, tables, etc). It's also comes with query debugging/profiling features, and graph data exploration and editing features.
 - [GraphXR](https://www.kineviz.com/graphxr) - Web app for visual graph analytics
+- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 
 ---
 
