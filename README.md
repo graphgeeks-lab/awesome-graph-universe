@@ -31,13 +31,13 @@ Property graphs allow nodes and edges to have associated properties, making them
 
 - [Amazon Neptune](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A managed graph database service that supports both RDF graphs (Triple Store) and property graphs.
 - [ArangoDB](https://www.arangodb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Multi-model database supporting graphs, documents, and key-value pairs.
+- [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ultra-fast graph database SaaS platform, easy to use, with openCypher.
 - [JanusGraph](https://janusgraph.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - A scalable, distributed property graph database optimized for querying massive graphs.
 - [KuzuDB](https://kuzudb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - A highly scalable, extremely fast, easy-to-use embeddedable graph database.
 - [Memgraph](https://memgraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Open-source in-memory graph database, tuned for dynamic analytics environments.
 - [Neo4j](https://neo4j.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - A leading native graph database with high-performance queries for large datasets.
 - [OrientDB](https://orientdb.com/) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-Java-orange) - A multi-model database supporting graphs and documents.
 - [TigerGraph](https://www.tigergraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A fast, scalable graph database for enterprise applications and analytics.
-- [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ultra-fast graph database SaaS platform, easy to use, with openCypher.
 
 ### Triple Stores (RDF Databases)
 
@@ -79,13 +79,13 @@ Knowledge graphs connect data points into a rich semantic web of entities and re
 
 Graph data science focuses on analyzing the structure and patterns in graphs to solve complex problems in domains like recommendation systems, fraud detection, and social network analysis.
 
+- [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Stunning graph data visualizations and domain modelling tools.
 - [GraphTool](https://graph-tool.skewed.de/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - An efficient Python module for manipulation and statistical analysis of graphs.
 - [GraphX (Apache Spark)](https://spark.apache.org/graphx/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - A component of Apache Spark for graph-parallel computation.
 - [MAGE](https://memgraph.com/docs/advanced-algorithms) - Memgraph Advanced Graph Extensions is an open-source graph algorithms library written in C++, Python and Rust.
 - [Neo4j Graph Data Science](https://neo4j.com/product/graph-data-science/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - A comprehensive library for graph algorithms and machine learning models.
 - [NetworkX](https://networkx.github.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - A Python library for creating, manipulating, and studying complex networks.
 - [TigerGraph Graph Studio](https://www.tigergraph.com/products/graph-analytics/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Powerful tools for exploring and analyzing graph data.
-- [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Stunning graph data visualisations and domain modelling tools.
 
 ---
 
