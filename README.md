@@ -123,13 +123,15 @@ Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGrap
 - [yWorks, Data Explorer for Neo4j](https://www.yworks.com/neo4j-explorer/) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Extract nodes from a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db and display them by appling templates based on node labels. Resulting graph can be sent to yWork, yEd Live to further adjust the display.
 
 ### Libraries
+Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and ![Language](https://img.shields.io/badge/language-Python-blue) librairies allow to display large networks.
 - [Cytoscape](https://js.cytoscape.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [EasyGraph](https://easy-graph.github.io/index.html) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [iGraph](https://igraph.org/python/) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [Linkurious, Ogma](https://resources.linkurious.com/ogma) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [NetworkX](https://networkx.org/) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [Sigma.js](https://www.sigmajs.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
-- [yWorks, yFiles for HTML](https://www.yworks.com/yfiles-overview?yfiles.com) diagramming SDK
+  
+- [yWorks, yFiles for HTML](https://www.yworks.com/yfiles-overview?yfiles.com) Diagramming SDK to precisely display and interect with different shapes of graphs. 
 - [yWorks, yFiles for Jupyter](https://www.yworks.com/products/yfiles-graphs-for-jupyter) ![Language](https://img.shields.io/badge/language-Python-blue) interactive graph visualization widget for Jupyter Notebooks and Google Colab supporting Python Objects, Pandas Dataframes, NetworkX graphs [Neo4j graphs explorer](https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j/)
 
 ---
