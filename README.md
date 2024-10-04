@@ -129,7 +129,7 @@ Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGrap
 - [Linkurious, Ogma](https://resources.linkurious.com/ogma) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [NetworkX](https://networkx.org/) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [Sigma.js](https://www.sigmajs.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
-- [yWorks, yFiles for HTML](https://www.yworks.com/yfiles-overview?yfiles.com)
+- [yWorks, yFiles for HTML](https://www.yworks.com/yfiles-overview?yfiles.com) diagramming SDK
 - [yWorks, yFiles for Jupyter](https://www.yworks.com/products/yfiles-graphs-for-jupyter) ![Language](https://img.shields.io/badge/language-Python-blue) interactive graph visualization widget for Jupyter Notebooks and Google Colab supporting Python Objects, Pandas Dataframes, NetworkX graphs [Neo4j graphs explorer](https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j/)
 
 ---
