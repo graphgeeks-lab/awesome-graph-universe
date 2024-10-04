@@ -103,7 +103,7 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 
 ## Graph Visualization
 
-Graph visualization refers to the tools that can be used to visualize and interact with graphs, in a way that helps detect patterns in the data. Some are primiraly meant for ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange), that is for global pattern identification. Other have functionalities for ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange), that is to identify pattern in the local context of nodes. 
+Graph visualization tools can be used to visualize and interact with graphs, in a way that helps detect patterns in the data. Some are primiraly meant for ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange), that is for global pattern identification. Other have functionalities for ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange), that is to identify pattern in the local context of nodes. 
 Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) or for ![Purpose](https://img.shields.io/badge/purpose-graphDataStructuring-orange) . 
 
 ### Apps
