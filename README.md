@@ -107,6 +107,7 @@ Graph visualization refers to the tools that can be used to visualize graphs and
 - [G.V()](https://gdotv.com) - A Graph Database Client compatible with Apache TinkerPop enabled graph databases that enables users to write and run Gremlin queries against their database, and visualize the results using various formats (graph visualization, JSON, tables, etc). It's also comes with query debugging/profiling features, and graph data exploration and editing features.
 - [GraphXR](https://www.kineviz.com/graphxr) - Web app for visual graph analytics
 - [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
+- [yFiles Graphs for Jupyter](https://github.com/yWorks/yfiles-jupyter-graphs) - interactive graph visualization widget for Jupyter Notebooks and Google Colab supporting Python Objects, Pandas Dataframes, NetworkX graphs, [Neo4j graphs](https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j/), etc. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue)
 
 ---
 
