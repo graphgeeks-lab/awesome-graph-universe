@@ -123,7 +123,9 @@ Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGrap
 - [yWorks, Data Explorer for Neo4j](https://www.yworks.com/neo4j-explorer/) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Extract nodes from a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db and display them by appling templates based on node labels. Resulting graph can be sent to yWork, yEd Live to further adjust the display.
 
 ### Libraries
+
 Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and ![Language](https://img.shields.io/badge/language-Python-blue) librairies allow to display large networks.
+
 - [Cytoscape](https://js.cytoscape.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [EasyGraph](https://easy-graph.github.io/index.html) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [iGraph](https://igraph.org/python/) ![Language](https://img.shields.io/badge/language-Python-blue)
