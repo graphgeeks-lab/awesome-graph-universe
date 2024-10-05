@@ -108,7 +108,8 @@ Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGrap
 
 ### Apps
 - [Gephi](https://gephi.org/) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)  visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.
-- [GraphAware Hume](https://graphaware.com/products/hume/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) Connected Data Analytics Platform
+- [GraphAware Hume](https://graphaware.com/products/hume/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) Connected Data Analytics Platform.
+- [G.V()](https://gdotv.com) - A Graph Database Client compatible with Apache TinkerPop enabled graph databases that enables users to write and run Gremlin queries against their database, and visualize the results using various formats (graph visualization, JSON, tables, etc). It's also comes with query debugging/profiling features, and graph data exploration and editing features.
 - [Kineviz, GraphXR](https://www.kineviz.com/graphxr) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)  Exploring connected data in an immersive browser-based platform.
 - [Kineviz, GraphXR,Neo4j GraphApp](https://graphxr.kineviz.com/projects) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)
 - [Kineviz, SightXR](https://www.kineviz.com/sightxr) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange) Navigate unstructured data with visual knowledge maps and GenAI.
@@ -131,15 +132,14 @@ Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and !
 - [iGraph](https://igraph.org/python/) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [Linkurious, Ogma](https://resources.linkurious.com/ogma) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [NetworkX](https://networkx.org/) ![Language](https://img.shields.io/badge/language-Python-blue)
+- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 - [Sigma.js](https://www.sigmajs.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
-  
 - [yWorks, yFiles for HTML](https://www.yworks.com/yfiles-overview?yfiles.com) Diagramming SDK to precisely display and interect with different shapes of graphs. 
 - [yWorks, yFiles for Jupyter](https://www.yworks.com/products/yfiles-graphs-for-jupyter) ![Language](https://img.shields.io/badge/language-Python-blue) interactive graph visualization widget for Jupyter Notebooks and Google Colab supporting Python Objects, Pandas Dataframes, NetworkX graphs [Neo4j graphs explorer](https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j/)
 
 ---
 
-- [G.V()](https://gdotv.com) - A Graph Database Client compatible with Apache TinkerPop enabled graph databases that enables users to write and run Gremlin queries against their database, and visualize the results using various formats (graph visualization, JSON, tables, etc). It's also comes with query debugging/profiling features, and graph data exploration and editing features.
-- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
+
 ---
 
 ## GraphRAG Infrastructure
