@@ -103,12 +103,43 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 
 ## Graph Visualization
 
-Graph visualization refers to the tools that can be used to visualize graphs and in that way help detect important patterns in the data.
-- [G.V()](https://gdotv.com) - A Graph Database Client compatible with Apache TinkerPop enabled graph databases that enables users to write and run Gremlin queries against their database, and visualize the results using various formats (graph visualization, JSON, tables, etc). It's also comes with query debugging/profiling features, and graph data exploration and editing features.
-- [GraphXR](https://www.kineviz.com/graphxr) - Web app for visual graph analytics
-- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
-- [yFiles Graphs for Jupyter](https://github.com/yWorks/yfiles-jupyter-graphs) - interactive graph visualization widget for Jupyter Notebooks and Google Colab supporting Python Objects, Pandas Dataframes, NetworkX graphs, [Neo4j graphs](https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j/), etc. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue)
+Graph visualization tools can be used to visualize and interact with graphs, in a way that helps detect patterns in the data. Some are primiraly meant for ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange), that is for global pattern identification. Other have functionalities for ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange), that is to identify pattern in the local context of nodes. 
+Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) or for ![Purpose](https://img.shields.io/badge/purpose-graphDataStructuring-orange) . 
 
+### Apps
+- [Gephi](https://gephi.org/) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)  visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.
+- [GraphAware Hume](https://graphaware.com/products/hume/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) Connected Data Analytics Platform
+- [Kineviz, GraphXR](https://www.kineviz.com/graphxr) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)  Exploring connected data in an immersive browser-based platform.
+- [Kineviz, GraphXR,Neo4j GraphApp](https://graphxr.kineviz.com/projects) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)
+- [Kineviz, SightXR](https://www.kineviz.com/sightxr) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange) Navigate unstructured data with visual knowledge maps and GenAI.
+- [Linkurious Enterprise](https://resources.linkurious.com/lke-free-trial) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) For interactive visual exploration of local graph patterns. Contextual decision intelligence solutions
+- [Neo4j Bloom](https://neo4j.com/product/bloom/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) ![Techno](https://img.shields.io/badge/techno-Neo4j-green) Explore and freely interact with Neo4j’s graph data platform with no coding required.
+- [NeoDash](https://neo4j.com/labs/neodash/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange)  Build dashboards (tables, maps, graph visualization,...) from data in a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db.
+- [SemSpect](https://www.semspect.de/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) No-code graph exploration. ![Techno](https://img.shields.io/badge/techno-Neo4j-green) **RDF**
+- [TheBrain](http://www.thebrain.com/) ![Purpose](https://img.shields.io/badge/purpose-graphDataStructuring-orange) Organizing notes and documents in a graph structure, with creation of visual representation of relations with the mouse.
+- [WebVOWL](https://service.tib.eu/webvowl/)  **RDF** Ontologies visualisation
+- [yWork, yEd Desktop](https://www.yworks.com/products/yed/download) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Easily draw graphs for illustration, with icons on nodes, styling of labels and relations.
+- [yWork, yEd Live](https://www.yworks.com/yed-live/index.html) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Display graphs with styling for nodes, relationships and apply several automatic layout algorithm and export to pdf , png, graphML.
+- [yWorks, Data Explorer for Neo4j](https://www.yworks.com/neo4j-explorer/) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Extract nodes from a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db and display them by appling templates based on node labels. Resulting graph can be sent to yWork, yEd Live to further adjust the display.
+
+### Libraries
+
+Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and ![Language](https://img.shields.io/badge/language-Python-blue) librairies allow to display large networks.
+
+- [Cytoscape](https://js.cytoscape.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
+- [EasyGraph](https://easy-graph.github.io/index.html) ![Language](https://img.shields.io/badge/language-Python-blue)
+- [iGraph](https://igraph.org/python/) ![Language](https://img.shields.io/badge/language-Python-blue)
+- [Linkurious, Ogma](https://resources.linkurious.com/ogma) ![Language](https://img.shields.io/badge/language-Javascript-blue)
+- [NetworkX](https://networkx.org/) ![Language](https://img.shields.io/badge/language-Python-blue)
+- [Sigma.js](https://www.sigmajs.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
+  
+- [yWorks, yFiles for HTML](https://www.yworks.com/yfiles-overview?yfiles.com) Diagramming SDK to precisely display and interect with different shapes of graphs. 
+- [yWorks, yFiles for Jupyter](https://www.yworks.com/products/yfiles-graphs-for-jupyter) ![Language](https://img.shields.io/badge/language-Python-blue) interactive graph visualization widget for Jupyter Notebooks and Google Colab supporting Python Objects, Pandas Dataframes, NetworkX graphs [Neo4j graphs explorer](https://github.com/yWorks/yfiles-jupyter-graphs-for-neo4j/)
+
+---
+
+- [G.V()](https://gdotv.com) - A Graph Database Client compatible with Apache TinkerPop enabled graph databases that enables users to write and run Gremlin queries against their database, and visualize the results using various formats (graph visualization, JSON, tables, etc). It's also comes with query debugging/profiling features, and graph data exploration and editing features.
+- [Orb](https://github.com/memgraph/orb) - Open-source graph visualization library. ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-TypeScript-blue)
 ---
 
 ## GraphRAG Infrastructure
