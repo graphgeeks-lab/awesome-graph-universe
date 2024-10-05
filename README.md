@@ -139,9 +139,6 @@ Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and !
 
 ---
 
-
----
-
 ## GraphRAG Infrastructure
 
 GraphRAG refers to using knowledge graphs for the basis of RAG (Retrieval-Augmented Generation) to improve the accuracy of Generative AI responses.
