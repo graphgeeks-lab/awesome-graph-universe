@@ -75,6 +75,14 @@ Knowledge graphs connect data points into a rich semantic web of entities and re
 
 ---
 
+## Graph ETL
+
+Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracting data from various sources, transforming it into a structured format suitable for a knowledge graph, and then loading it into a graph database.
+
+- [Graph.Build](https://graph.build/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Graph.Build is a no-code platform dedicated to managing Ontologies, LPG schemas, and ETL workflows using source data to graph model production.
+
+---
+
 ## Graph Data Science and Analytics
 
 Graph data science focuses on analyzing the structure and patterns in graphs to solve complex problems in domains like recommendation systems, fraud detection, and social network analysis.
