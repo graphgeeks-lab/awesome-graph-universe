@@ -83,6 +83,7 @@ Knowledge graphs connect data points into a rich semantic web of entities and re
 Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracting data from various sources, transforming it into a structured format suitable for a knowledge graph, and then loading it into a graph database.
 
 - [Graph.Build](https://graph.build/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Graph.Build is a no-code platform dedicated to managing Ontologies, LPG schemas, and ETL workflows using source data to graph model production.
+- [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Bulk ingestion of PDFs, TXT, or MD files built directly to RDF graphs with mapped vector embeddings.
 
 ---
 
@@ -168,7 +169,7 @@ GraphRAG refers to using knowledge graphs for the basis of RAG (Retrieval-Augmen
 
 - [GraphRAG](https://github.com/microsoft/graphrag) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Microsoft's open source project to deploy a GraphRAG solution
 - [Louie.AI, AI KG](https://www.louie.ai/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) Real-time self-adjusting AI graph intelligence tier for popular scalable vector databases with native support for scalable ingestion, targeting, analysis, and triggering.
-- [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Full end-to-end and open source GraphRAG solution that deploys in minutes with a single line of code.
+- [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Full AI Engine with Native GraphRAG for Agent Development.
 
 ---
 
