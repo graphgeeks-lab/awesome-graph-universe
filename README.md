@@ -84,6 +84,7 @@ Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracti
 
 - [Graph.Build](https://graph.build/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Graph.Build is a no-code platform dedicated to managing Ontologies, LPG schemas, and ETL workflows using source data to graph model production.
 - [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Bulk ingestion of PDFs, TXT, or MD files built directly to RDF graphs with mapped vector embeddings.
+- [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ontopic Studio enables the rapid creation of Knowledge Graphs from any relational data source, supporting both graph virtualization and ETL workflows. 
 
 ---
 
