@@ -83,8 +83,8 @@ Knowledge graphs connect data points into a rich semantic web of entities and re
 Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracting data from various sources, transforming it into a structured format suitable for a knowledge graph, and then loading it into a graph database.
 
 - [Graph.Build](https://graph.build/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Graph.Build is a no-code platform dedicated to managing Ontologies, LPG schemas, and ETL workflows using source data to graph model production.
-- [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Bulk ingestion of PDFs, TXT, or MD files built directly to RDF graphs with mapped vector embeddings.
 - [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ontopic Studio enables the rapid creation of Knowledge Graphs from any relational data source, supporting both graph virtualization and ETL workflows. 
+- [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Bulk ingestion of PDFs, TXT, or MD files built directly to RDF graphs with mapped vector embeddings.
 
 ---
 
