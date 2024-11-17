@@ -48,6 +48,7 @@ Triple stores are designed to store and query RDF (Resource Description Framewor
 - [Amazon Neptune](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A managed graph database service that supports both RDF graphs (Triple Store) and property graphs.
 - [Blazegraph](https://blazegraph.com/) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-Java-orange) - A high-performance triple store used for RDF data.
 - [GraphDB](https://www.ontotext.com/products/graphdb/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - An RDF database that helps create and query linked data.
+- [Ontop VKG](https://ontop-vkg.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - The open source Virtual Knowledge Graph engine is used in several commercial products, open source projects and research projects for providing a SPARQL endpoint on top of relational sources and materializing relational data sources as RDF files.
 - [Stardog](https://www.stardog.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - An enterprise knowledge graph platform, fully compliant with RDF and SPARQL.
 
 ---
