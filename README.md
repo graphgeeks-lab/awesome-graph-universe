@@ -33,6 +33,7 @@ Property graphs allow nodes and edges to have associated properties, making them
 - [Amazon Neptune](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A managed graph database service that supports both RDF graphs (Triple Store) and property graphs.
 - [ArangoDB](https://www.arangodb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Multi-model database supporting graphs, documents, and key-value pairs.
 - [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ultra-fast graph database SaaS platform, easy to use, with openCypher.
+- [Gremlin Server/TinkerGraph](https://tinkerpop.apache.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Apache TinkerPop is an open source graph computing framework for graph database and graph analytics systems.  As part of that offering TinkerGraph is a reference implementation of an OLTP graph database that provides an in-memory graph engine.
 - [JanusGraph](https://janusgraph.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - A scalable, distributed property graph database optimized for querying massive graphs.
 - [KuzuDB](https://kuzudb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - A highly scalable, extremely fast, easy-to-use embeddedable graph database.
 - [Memgraph](https://memgraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Open-source in-memory graph database, tuned for dynamic analytics environments.
@@ -56,6 +57,7 @@ Triple stores are designed to store and query RDF (Resource Description Framewor
 Graph engines are optimized systems for performing queries, computations, and analytics on large graph datasets, leveraging both hardware and software efficiencies.
 
 - [AnzoGraph](https://www.cambridgesemantics.com/product/anzograph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A massively parallel, in-memory graph database engine for advanced analytics.
+- [Apache TinkerPop](https://tinkerpop.apache.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Apache TinkerPop is an open source graph computing framework for graph database and graph analytics systems. 
 - [Dgraph](https://dgraph.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Go-blue) - A fast, distributed graph database system designed for real-time query execution.
 - [GFQL](https://pygraphistry.readthedocs.io/en/0.34.8/gfql/about.html) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) - An easy-to-use open-source graph query language with dataframe-native columnar processing, optional GPU acceleration, and part of the pygraphistry/arrow/nvidia ecosystem.
 - [GunDB](https://gun.eco/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-JavaScript-yellow) - A decentralized graph database engine designed for distributed systems.
@@ -83,8 +85,13 @@ Knowledge graphs connect data points into a rich semantic web of entities and re
 Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracting data from various sources, transforming it into a structured format suitable for a knowledge graph, and then loading it into a graph database.
 
 - [Graph.Build](https://graph.build/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Graph.Build is a no-code platform dedicated to managing Ontologies, LPG schemas, and ETL workflows using source data to graph model production.
+
 - [Ontopic Studio](https://ontopic.ai/en/ontopic-studio/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ontopic Studio enables the rapid creation of Knowledge Graphs from any relational data source, supporting both graph virtualization and ETL workflows. 
+
+- [Nodestream](https://nodestream-proj.github.io/docs/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Nodestream is a declarative framework for building, maintaining, and analyzing graph data.
+
 - [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Bulk ingestion of PDFs, TXT, or MD files built directly to RDF graphs with mapped vector embeddings.
+
 
 ---
 
@@ -92,6 +99,7 @@ Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracti
 
 Graph data science focuses on analyzing the structure and patterns in graphs to solve complex problems in domains like recommendation systems, fraud detection, and social network analysis.
 
+- [Amazon Neptune Analytics](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Neptune Analytics is a memory-optimized graph database engine for analytics an graph algorithms.
 - [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Stunning graph data visualizations and domain modelling tools.
 - [GraphTool](https://graph-tool.skewed.de/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - An efficient Python module for manipulation and statistical analysis of graphs.
 - [GraphX (Apache Spark)](https://spark.apache.org/graphx/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - A component of Apache Spark for graph-parallel computation.
@@ -101,6 +109,7 @@ Graph data science focuses on analyzing the structure and patterns in graphs to 
 - [NetworkX](https://networkx.github.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - A Python library for creating, manipulating, and studying complex networks.
 - [PyGraphistry[AI]](https://github.com/graphistry/pygraphistry) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) - Open source library & platform to leverage the power of graph visualization, analytics, ML, & AI, including with native GPU acceleration.
 - [TigerGraph Graph Studio](https://www.tigergraph.com/products/graph-analytics/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Powerful tools for exploring and analyzing graph data.
+
 
 ---
 
@@ -120,12 +129,14 @@ Graph computing refers to the infrastructure and platforms that handle large-sca
 
 ## Graph Visualization
 
-Graph visualization tools can be used to visualize and interact with graphs, in a way that helps detect patterns in the data. Some are primiraly meant for ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange), that is for global pattern identification. Other have functionalities for ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange), that is to identify pattern in the local context of nodes. 
+Graph visualization tools can be used to visualize and interact with graphs, in a way that helps detect patterns in the data. Some are primarily meant for ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange), that is for global pattern identification. Other have functionalities for ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange), that is to identify pattern in the local context of nodes. 
 Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) or for ![Purpose](https://img.shields.io/badge/purpose-graphDataStructuring-orange) . 
 
 ### Apps
 - [Gephi](https://gephi.org/) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)  visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.
 - [GraphAware Hume](https://graphaware.com/products/hume/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) Connected Data Analytics Platform.
+- [Graph Notebook](https://github.com/aws/graph-notebook) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) The graph notebook provides an easy way to interact with graph databases using Jupyter notebooks. Using this open-source Python package, you can connect to any graph database that supports the Apache TinkerPop, openCypher or the RDF SPARQL graph models. 
+ ![Techno](https://img.shields.io/badge/techno-AmazonNeptune-green) ![Techno](https://img.shields.io/badge/techno-ApacheTinkerPop-green) ![Techno](https://img.shields.io/badge/techno-RDF-green) ![Techno](https://img.shields.io/badge/techno-openCypher-green)  ![Techno](https://img.shields.io/badge/techno-Neo4j-green)
 - [Graphistry Hub, Graphistry Enterprise](https://www.graphistry.com/get-started) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange)  ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)
  Visual investigation platform for graphs of all scales, including free GPU tier and many integrations
  
@@ -137,18 +148,19 @@ Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGrap
 - [Linkurious Enterprise](https://resources.linkurious.com/lke-free-trial) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) For interactive visual exploration of local graph patterns. Contextual decision intelligence solutions
 - [Louie.AI](https://www.louie.ai/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white) Interactive genAI-native notebooks and dashboards with native integration for Python, Graphistry, and many databases
 ![Techno](https://img.shields.io/badge/techno-Neo4j-green) ![Techno](https://img.shields.io/badge/techno-AmazonNeptune-green)  ![Techno](https://img.shields.io/badge/techno-Graphistry-green) ![Techno](https://img.shields.io/badge/techno-GraphFrames-green) ![Techno](https://img.shields.io/badge/techno-GFQL-green)  ![Techno](https://img.shields.io/badge/techno-SQL-green).
+- [metaphacts](https://metaphacts.com/) metaphacts offers a flexible, open platform for describing and querying graph data and for visualizing and interacting with knowledge graphs.
 - [Neo4j Bloom](https://neo4j.com/product/bloom/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) ![Techno](https://img.shields.io/badge/techno-Neo4j-green) Explore and freely interact with Neo4j’s graph data platform with no coding required.
 - [NeoDash](https://neo4j.com/labs/neodash/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange)  Build dashboards (tables, maps, graph visualization,...) from data in a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db.
 - [SemSpect](https://www.semspect.de/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) No-code graph exploration. ![Techno](https://img.shields.io/badge/techno-Neo4j-green) **RDF**
 - [TheBrain](http://www.thebrain.com/) ![Purpose](https://img.shields.io/badge/purpose-graphDataStructuring-orange) Organizing notes and documents in a graph structure, with creation of visual representation of relations with the mouse.
-- [WebVOWL](https://service.tib.eu/webvowl/)  **RDF** Ontologies visualisation
+- [WebVOWL](https://service.tib.eu/webvowl/)  **RDF** Ontologies visualization
 - [yWork, yEd Desktop](https://www.yworks.com/products/yed/download) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Easily draw graphs for illustration, with icons on nodes, styling of labels and relations.
 - [yWork, yEd Live](https://www.yworks.com/yed-live/index.html) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Display graphs with styling for nodes, relationships and apply several automatic layout algorithm and export to pdf , png, graphML.
-- [yWorks, Data Explorer for Neo4j](https://www.yworks.com/neo4j-explorer/) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Extract nodes from a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db and display them by appling templates based on node labels. Resulting graph can be sent to yWork, yEd Live to further adjust the display.
+- [yWorks, Data Explorer for Neo4j](https://www.yworks.com/neo4j-explorer/) ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) Extract nodes from a ![Techno](https://img.shields.io/badge/techno-Neo4j-green) db and display them by applying templates based on node labels. Resulting graph can be sent to yWork, yEd Live to further adjust the display.
 
 ### Libraries
 
-Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and ![Language](https://img.shields.io/badge/language-Python-blue) librairies allow to display large networks.
+Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and ![Language](https://img.shields.io/badge/language-Python-blue) libraries allow to display large networks.
 
 - [Cytoscape](https://js.cytoscape.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [EasyGraph](https://easy-graph.github.io/index.html) ![Language](https://img.shields.io/badge/language-Python-blue)
