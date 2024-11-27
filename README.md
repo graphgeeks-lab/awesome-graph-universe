@@ -40,6 +40,7 @@ Property graphs allow nodes and edges to have associated properties, making them
 - [Neo4j](https://neo4j.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - A leading native graph database with high-performance queries for large datasets.
 - [OrientDB](https://orientdb.com/) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-Java-orange) - A multi-model database supporting graphs and documents.
 - [TigerGraph](https://www.tigergraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A fast, scalable graph database for enterprise applications and analytics.
+- [Ultipa Graph](https://www.ultipa.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A real-time, native, property graph database with unlimited scalability.
 
 ### Triple Stores (RDF Databases)
 
@@ -110,6 +111,7 @@ Graph data science focuses on analyzing the structure and patterns in graphs to 
 - [NetworkX](https://networkx.github.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - A Python library for creating, manipulating, and studying complex networks.
 - [PyGraphistry[AI]](https://github.com/graphistry/pygraphistry) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) - Open source library & platform to leverage the power of graph visualization, analytics, ML, & AI, including with native GPU acceleration.
 - [TigerGraph Graph Studio](https://www.tigergraph.com/products/graph-analytics/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Powerful tools for exploring and analyzing graph data.
+- [Ultipa Graph Analytics & Algorithms](https://www.ultipa.com/document/ultipa-graph-analytics-algorithms/introduction/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - An extensible set of high-performance graph algorithms embedded within the graph computing engine to deliver optimal performance..
 
 
 ---
