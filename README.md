@@ -46,6 +46,7 @@ Property graphs allow nodes and edges to have associated properties, making them
 
 Triple stores are designed to store and query RDF (Resource Description Framework) data, which represents information in triples: subject-predicate-object.
 
+- [AllegroGraph](https://allegrograph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Lisp-cyan) - A Horizontally Distributed, Multi-model (Vector, Document and Graph), Entity-Event Knowledge Graph platform
 - [Amazon Neptune](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A managed graph database service that supports both RDF graphs (Triple Store) and property graphs.
 - [Blazegraph](https://blazegraph.com/) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-Java-orange) - A high-performance triple store used for RDF data.
 - [GraphDB](https://www.ontotext.com/products/graphdb/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - An RDF database that helps create and query linked data.
