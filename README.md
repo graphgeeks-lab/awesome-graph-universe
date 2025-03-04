@@ -173,6 +173,8 @@ Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGrap
 
 Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and ![Language](https://img.shields.io/badge/language-Python-blue) libraries allow to display large networks.
 
+- [Cambridge Intelligence, KeyLines](https://cambridge-intelligence.com/keylines/technology) ![Language](https://img.shields.io/badge/language-Javascript-blue) SDK used to build interactive, scalable graph visualization web components for apps. Works with any JS framework and in any tech stack.
+- [Cambridge Intelligence, ReGraph](https://cambridge-intelligence.com/regraph/technology) ![Language](https://img.shields.io/badge/language-Javascript-blue) the same benefits as the KeyLines graph visualization SDK, but designed specifically for the React framework.
 - [Cytoscape](https://js.cytoscape.org/) ![Language](https://img.shields.io/badge/language-Javascript-blue)
 - [EasyGraph](https://easy-graph.github.io/index.html) ![Language](https://img.shields.io/badge/language-Python-blue)
 - [GraphistryJS](https://github.com/graphistry/graphistry-js) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-JavaScript-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)  ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white) Open-source HTML, Node, React, vanilla JS library for quickly visualizing large-scale graph data in Graphistry, including with native GPU acceleration.
