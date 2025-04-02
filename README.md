@@ -33,6 +33,7 @@ Property graphs allow nodes and edges to have associated properties, making them
 - [Amazon Neptune](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A managed graph database service that supports both RDF graphs (Triple Store) and property graphs.
 - [ArangoDB](https://www.arangodb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Multi-model database supporting graphs, documents, and key-value pairs.
 - [Data Graphs](https://datagraphs.com) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Ultra-fast graph database SaaS platform, easy to use, with openCypher.
+- [FalkorDB](https://www.falkordb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C-orange) ![Language](https://img.shields.io/badge/language-Rust-orange) - An Open-source high-performance, low-latency Graph Database optimized for real-time analytics and AI-driven applications.
 - [Gremlin Server/TinkerGraph](https://tinkerpop.apache.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Apache TinkerPop is an open source graph computing framework for graph database and graph analytics systems.  As part of that offering TinkerGraph is a reference implementation of an OLTP graph database that provides an in-memory graph engine.
 - [JanusGraph](https://janusgraph.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - A scalable, distributed property graph database optimized for querying massive graphs.
 - [KuzuDB](https://kuzudb.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - A highly scalable, extremely fast, easy-to-use embeddedable graph database.
@@ -144,6 +145,8 @@ Graph visualization tools can be used to visualize and interact with graphs, in 
 Some tools are meant to ![Purpose](https://img.shields.io/badge/purpose-drawGraphs-orange) or for ![Purpose](https://img.shields.io/badge/purpose-graphDataStructuring-orange) . 
 
 ### Apps
+
+- [FalkorDB Browser](https://github.com/FalkorDB/falkordb-browser/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) ![Techno](https://img.shields.io/badge/techno-FalkorDB-green) A web-based interface for visualizing and interacting with graph data stored in FalkorDB, simplifying database management and exploration.
 - [Gephi](https://gephi.org/) ![Purpose](https://img.shields.io/badge/purpose-networkAnalysis-orange)  visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.
 - [GraphAware Hume](https://graphaware.com/products/hume/) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) Connected Data Analytics Platform.
 - [Graph Notebook](https://github.com/aws/graph-notebook) ![Purpose](https://img.shields.io/badge/purpose-localAnalysis-orange) The graph notebook provides an easy way to interact with graph databases using Jupyter notebooks. Using this open-source Python package, you can connect to any graph database that supports the Apache TinkerPop, openCypher or the RDF SPARQL graph models. 
@@ -192,6 +195,7 @@ Various ![Language](https://img.shields.io/badge/language-Javascript-blue) and !
 GraphRAG refers to using knowledge graphs for the basis of RAG (Retrieval-Augmented Generation) to improve the accuracy of Generative AI responses.
 
 - [GraphRAG](https://github.com/microsoft/graphrag) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Microsoft's open source project to deploy a GraphRAG solution
+- [GraphRAG-SDK](https://github.com/FalkorDB/GraphRAG-SDK) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - An open-source toolkit designed to integrate Knowledge Graphs as GraphRAG, enhancing AI-powered applications with real-time graph-based knowledge retrieval.
 - [Louie.AI, AI KG](https://www.louie.ai/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) Real-time self-adjusting AI graph intelligence tier for popular scalable vector databases with native support for scalable ingestion, targeting, analysis, and triggering.
 - [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Full AI Engine with Native GraphRAG for Agent Development.
 
