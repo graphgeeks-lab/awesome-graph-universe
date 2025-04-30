@@ -102,7 +102,7 @@ Knowledge Graph ETL (Extract, Transform, Load) refers to the process of extracti
 
 - [TrustGraph](https://github.com/trustgraph-ai/trustgraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - Bulk ingestion of PDFs, TXT, or MD files built directly to RDF graphs with mapped vector embeddings.
 
-- [CocoIndex](https://github.com/cocoindex-io/cocoindex) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - ETL to build real-time Knowledge Graph with incremental processing, support custom logic 
+- [CocoIndex](https://github.com/cocoindex-io/cocoindex) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) - ETL to build real-time Knowledge Graph with incremental processing, support custom logic.
 
 ---
 
