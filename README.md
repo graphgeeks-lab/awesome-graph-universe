@@ -46,9 +46,9 @@ Property graphs allow nodes and edges to have associated properties, making them
 
 ### Triple Stores (RDF Databases)
 
-Triple stores are designed to store and query RDF (Resource Description Framework) data, which represents information in triples: subject-predicate-object.
+Triple stores are designed to store and query RDF (Resource Description Framework) data, which represents information in triples (subject-predicate-object) making them useful for semantics, standardised interoperability and integration.
 
-- [AllegroGraph](https://allegrograph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Lisp-cyan) - A Horizontally Distributed, Multi-model (Vector, Document and Graph), Entity-Event Knowledge Graph platform
+- [AllegroGraph](https://allegrograph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Lisp-cyan) - A Horizontally Distributed, Multi-model (Vector, Document and RDF Graph), Entity-Event Knowledge Graph platform
 - [Amazon Neptune](https://aws.amazon.com/neptune/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A managed graph database service that supports both RDF graphs (Triple Store) and property graphs.
 - [Apache Fuseki](https://jena.apache.org/documentation/fuseki2/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - Apache Jena Fuseki is an open source SPARQL server built on Apache Jena. Fuseki provides full W3C SPARQL support.
 - [Blazegraph](https://blazegraph.com/) ![Status](https://img.shields.io/badge/status-inactive-red) ![Language](https://img.shields.io/badge/language-Java-orange) - A high-performance triple store used for RDF data.
@@ -58,7 +58,10 @@ Triple stores are designed to store and query RDF (Resource Description Framewor
 - [Oxigraph](https://github.com/oxigraph/oxigraph) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Rust-orange) - An RDF graph database offering an in-memory store that can compile to WebAssembly and a RocksDB-based backend. It is designed for both server environments and embedded applications.
 - [QLever](https://github.com/ad-freiburg/qlever) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search.
 - [Stardog](https://www.stardog.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Java-orange) - An enterprise knowledge graph platform, fully compliant with RDF and SPARQL.
-
+- [RDFox](https://www.oxfordsemantic.tech/) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - Knowledge-based artificial intelligence powered by human-like reasoning and the highest performing knowledge graph technology.
+- [MarkLogic](https://www.progress.com/marklogic) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - MarkLogic data platform can combine your data with everything known about it (metadata) in a single service and reveal smarter decisions faster.
+- [Altair](https://altair.com/altair-graph-studio) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - Altair® Graph Studio™ (formerly Anzo by Cambridge Semantics) is a comprehensive data discovery and integration toolset that applies a semantic, graph-based data fabric layer over diverse enterprise data sources.
+- [Virtuoso](https://virtuoso.openlinksw.com) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - OpenLink Virtuoso is an innovative platform that intertwines open standards for Data Access, Integration, and Management with the transformative potential of AI & GenAI.
 
 ---
 
@@ -78,7 +81,7 @@ Graph engines are optimized systems for performing queries, computations, and an
 
 ---
 
-## Knowledge Graphs
+## (Public) Knowledge Graphs
 
 Knowledge graphs connect data points into a rich semantic web of entities and relationships. They are often used in AI applications, search engines, and data integration platforms.
 
