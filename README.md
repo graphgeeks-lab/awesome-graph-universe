@@ -43,6 +43,7 @@ Property graphs allow nodes and edges to have associated properties, making them
 - [TigerGraph](https://www.tigergraph.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A fast, scalable graph database for enterprise applications and analytics.
 - [Ultipa Graph](https://www.ultipa.com/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-C%2B%2B-blue) - A real-time, native, property graph database with unlimited scalability.
 - [Raphtory](https://www.raphtory.com/)![Status](https://img.shields.io/badge/status-active-brightgreen)![Language](https://img.shields.io/badge/language-RUST-blue) - An in-memory vectorised graph database written in Rust with Python APIs on top.
+- [Grafeo](https://grafeo.dev) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-RUST-blue) - Embeddable graph database built in pure Rust. Dual data models (LPG + RDF), six query languages, HNSW vector search, MVCC transactions. Now in beta.
 
 ### Triple Stores (RDF Databases)
 
@@ -62,7 +63,7 @@ Triple stores are designed to store and query RDF (Resource Description Framewor
 - [MarkLogic](https://www.progress.com/marklogic) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - MarkLogic data platform can combine your data with everything known about it (metadata) in a single service and reveal smarter decisions faster.
 - [Altair](https://altair.com/altair-graph-studio) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - Altair® Graph Studio™ (formerly Anzo by Cambridge Semantics) is a comprehensive data discovery and integration toolset that applies a semantic, graph-based data fabric layer over diverse enterprise data sources.
 - [Virtuoso](https://virtuoso.openlinksw.com) ![Status](https://img.shields.io/badge/status-active-brightgreen)  - OpenLink Virtuoso is an innovative platform that intertwines open standards for Data Access, Integration, and Management with the transformative potential of AI & GenAI.
-
+- [Grafeo](https://grafeo.dev) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-RUST-blue) - Embeddable graph database built in pure Rust. Dual data models (LPG + RDF), six query languages, HNSW vector search, MVCC transactions. Now in beta.
 ---
 
 ## Graph Engines
