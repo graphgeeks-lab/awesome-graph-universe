@@ -85,6 +85,7 @@ Graph engines are optimized systems for performing queries, computations, and an
 
 Knowledge graphs connect data points into a rich semantic web of entities and relationships. They are often used in AI applications, search engines, and data integration platforms.
 
+- [BJJGraph](https://bjjgraph.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Brazilian jiu-jitsu knowledge graph of 133 positions and 1,315 techniques, with estimated gi and no-gi outcome probabilities.
 - [DBpedia](https://wiki.dbpedia.org/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-PHP-blueviolet) - A project aimed at extracting structured content from Wikipedia.
 - [Google Knowledge Graph](https://developers.google.com/knowledge-graph) ![Status](https://img.shields.io/badge/status-active-brightgreen) - Powering Google's search engine with structured knowledge representation.
 - [Louie.AI, AI KG](https://www.louie.ai/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Python-blue) ![Language](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) Real-time self-adjusting AI graph intelligence tier for popular scalable vector-capable databases with native support for scalable ingestion, targeting, analysis, and triggering.
