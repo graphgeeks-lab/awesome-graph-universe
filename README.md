@@ -18,6 +18,7 @@ Feel free to contribute by submitting pull requests! 🚀
   <li><a href="#graph-visualization">Graph Visualization</a></li>
   <li><a href="#graphrag-infrastructure">GraphRAG Infrastructure</a></li>
   <li><a href="#graph-stream-processors">Graph Stream Processors</a></li>
+  <li><a href="#books">Books</a></li>
 </ul>
 
 ---
@@ -214,6 +215,12 @@ GraphRAG refers to using knowledge graphs for the basis of RAG (Retrieval-Augmen
 Graph stream processors enable real-time graph computations within event-stream processing systems. They integrate seamlessly into ETL pipelines or event streams, allowing graph operations to be performed on incoming data streams. These tools consume events, apply graph-based transformations or analyses, and emit processed events, facilitating dynamic graph processing as data flows through the system.
 
 - [Quine](https://quine.io/) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Language](https://img.shields.io/badge/language-Scala-blue) - Quine allows developers to combine multiple event streams into a single graph, query for complex event relationships to identify high value patterns, and take an action in real time.
+
+---
+
+## Books
+
+- [GQL Essentials](https://gql.fyi/) - A free online book by Dominik Tomaszuk introducing Graph Query Language (GQL), its syntax, data model and formal semantics.
 
 ---
 
